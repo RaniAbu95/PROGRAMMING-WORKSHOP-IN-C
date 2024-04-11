@@ -1,0 +1,16 @@
+
+Printing current state of the board for location (row,col)=(0,0)
+
+   +0 +1 +2 +3 +4 +5 +6 +7 +8 +9
++0  X                          O  
++1  X  O  O  X  O  X  O  X  O  X  
++2                             X  
++3                             O  
++4                             X  
++5                             O  
++6                             X  
++7                             O  
++8                             X  
++9  O  X  X  O  X  O  X  O  X  O  
+
+The game ended with a tie...
